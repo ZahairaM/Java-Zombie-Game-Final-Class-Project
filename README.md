@@ -6,10 +6,10 @@ This was one of my first larger programming projects where I had the opportunity
 
 While the game is still an early project and has room for additional polish and improvements, I am proud of what I was able to create with the skills I had at the time. The project gave me experience taking an idea from the planning stage and turning it into a complete, playable program.
 
-#Game-Overview
+# Game-Overview
 The game is a simple survival-style game where the player controls a human trying to escape a pursuing zombie. The goal is to collect stars throughout the map, which increase the player's movement speed and help them stay ahead of the zombie.
 
-#How-to-Play
+# How-to-Play
 - Click to start the game.
 - Use the arrow keys to move the player/human.
 - Collect Stars to increase your speed.
