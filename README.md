@@ -6,8 +6,17 @@ This was one of my first larger programming projects where I had the opportunity
 
 While the game is still an early project and has room for additional polish and improvements, I am proud of what I was able to create with the skills I had at the time. The project gave me experience taking an idea from the planning stage and turning it into a complete, playable program.
 
-# Game-Overview
+## Game-Overview
 The game is a simple survival-style game where the player controls a human trying to escape a pursuing zombie. The goal is to collect stars throughout the map, which increase the player's movement speed and help them stay ahead of the zombie.
+
+# How to Run the Game
+- Click the green Code button on this repository and select Download ZIP.
+- Extract the downloaded ZIP file.
+- Open the project in IntelliJ IDEA.
+- Make sure all Java source files, including SimpleCanvas.java, and the game images are included in the project.
+- Open RunZombieGame.java and run its main() method to launch the game.
+
+Note: This game runs locally using Java and cannot be played directly through GitHub.
 
 # How-to-Play
 - Click to start the game.
