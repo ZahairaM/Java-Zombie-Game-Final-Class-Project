@@ -10,7 +10,7 @@ While the game is still an early project and has room for additional polish and 
 The game is a simple survival-style game where the player controls a human trying to escape a pursuing zombie. The goal is to collect stars throughout the map, which increase the player's movement speed and help them stay ahead of the zombie.
 
 ## Gameplay Screenshot
-![Zombie Chase Game Gameplay](gameplay1.png)
+![Zombie Chase Game Gameplay](Gameplay1.png)
 
 # How to Run the Game
 - Click the green Code button on this repository and select Download ZIP.
